@@ -16,13 +16,17 @@
   <a href="https://www.linkedin.com/in/igor-galindo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorgalind0/igorgalind0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorgalind0/igorgalind0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorgalind0/igorgalind0/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
+
+##
 - 🔭 Sobre mim:
-= asd
+
+Graduando em Análise e Desenvolvimento de Sistemas pela UNIFAVIP, estou a procura do primeiro estágio na área de tecnologia. Atualmente o ambiente que mais trabalho é o desenvolvimento front-end e projetos em python. Sou entusiasta por aprender novas linguagens e fascinado por aprender dia após dia, se dedicando a entrar de cabeça no mercado de tecnologia. Tenho habilidades de comunicação, conseguindo me expressar de maneira clara, espírito de liderança e facilidade em resolver problemas e conflitos. Busco oportunidade de me desenvolver mais ainda, sendo proativo nas minhas tarefas e objetivos.
+
