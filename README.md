@@ -1,4 +1,5 @@
-### Olá! Me chamo Igor Galindo 👋
+###
+<h1>Olá! Me chamo Igor Galindo 👋</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,11 +23,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igorgalind0/igorgalind0/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
-
-##
-- 🔭 Sobre mim:
-
-Graduando em Análise e Desenvolvimento de Sistemas pela UNIFAVIP, estou a procura do primeiro estágio na área de tecnologia. Atualmente o ambiente que mais trabalho é o desenvolvimento front-end e projetos em python. Sou entusiasta por aprender novas linguagens e fascinado por aprender dia após dia, se dedicando a entrar de cabeça no mercado de tecnologia. Tenho habilidades de comunicação, conseguindo me expressar de maneira clara, espírito de liderança e facilidade em resolver problemas e conflitos. Busco oportunidade de me desenvolver mais ainda, sendo proativo nas minhas tarefas e objetivos.
+<h1>🔭 Sobre mim:</h1>
+<p>Graduando em Análise e Desenvolvimento de Sistemas pela UNIFAVIP, estou a procura do primeiro estágio na área de tecnologia. Atualmente o ambiente que mais trabalho é o desenvolvimento front-end e projetos em python. Sou entusiasta por aprender novas linguagens e fascinado por aprender dia após dia, se dedicando a entrar de cabeça no mercado de tecnologia. Tenho habilidades de comunicação, conseguindo me expressar de maneira clara, espírito de liderança e facilidade em resolver problemas e conflitos. Busco oportunidade de me desenvolver mais ainda, sendo proativo nas minhas tarefas e objetivos.</p>
 
