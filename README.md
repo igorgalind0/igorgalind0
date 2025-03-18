@@ -24,5 +24,5 @@
 </picture>
 
 <h1>🔭 Sobre mim:</h1>
-<p>Graduando em Análise e Desenvolvimento de Sistemas pela UNIFAVIP, estou a procura do primeiro estágio na área de tecnologia. Atualmente o ambiente que mais trabalho é o desenvolvimento front-end e projetos em python. Sou entusiasta por aprender novas linguagens e fascinado por aprender dia após dia, se dedicando a entrar de cabeça no mercado de tecnologia. Tenho habilidades de comunicação, conseguindo me expressar de maneira clara, espírito de liderança e facilidade em resolver problemas e conflitos. Busco oportunidade de me desenvolver mais ainda, sendo proativo nas minhas tarefas e objetivos.</p>
+<p>Graduando em Ciência da Computação pela UNIFAVIP, estou a procura do primeiro estágio na área de tecnologia. Atualmente o ambiente que mais trabalho é o desenvolvimento front-end e projetos em python. Sou entusiasta por aprender novas linguagens e fascinado por aprender dia após dia, se dedicando a entrar de cabeça no mercado de tecnologia. Tenho habilidades de comunicação, conseguindo me expressar de maneira clara, espírito de liderança e facilidade em resolver problemas e conflitos. Busco oportunidade de me desenvolver mais ainda, sendo proativo nas minhas tarefas e objetivos.</p>
 
